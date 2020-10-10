@@ -14,7 +14,7 @@
 
 <a href="https://tryhackme.com/p/RoshanMishra">  
 
-<img src = "https://github.com/RoshanMishra07/Portfolio/blob/main/download.png"></img></a>
+<img src = "https://github.com/RoshanMishra07/Portfolio/blob/main/download.png" height = "10%" width = "15%"></img></a>
 
 
 ![image](https://github.com/RoshanMishra07/Portfolio/blob/main/ezgif.com-video-to-gif.gif)
